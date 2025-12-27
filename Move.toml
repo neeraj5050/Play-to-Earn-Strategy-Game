@@ -1,0 +1,14 @@
+[package]
+name = "web3"
+version = "1.0.0"
+authors = []
+
+[addresses]
+wallet_address='0x953d2e02bf0fe7a5f7ea3ba118a1afcfb48c7e8a8ec39c711354a15eb1f0dd55'
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
