@@ -34,3 +34,4 @@ Our vision is to revolutionize blockchain gaming by creating an engaging strateg
 - **Staking Mechanism**: Stake tokens to earn passive rewards and governance rights
 - **Land Ownership**: Introduce territory control and base-building mechanics
 - **Cross-Chain Bridge**: Enable asset transfers between multiple blockchain networks
+nn
