@@ -2,7 +2,7 @@
 
 ## Project Description
 
-A turn-based blockchain strategy game built on the Aptos network that combines NFT hero ownership with resource management mechanics. Players can own unique hero NFTs, engage in strategic turn-based battles, and earn cryptocurrency rewards based on their performance. The game creates a sustainable play-to-earn economy where skill and strategy directly translate into tangible rewards.
+A turn-based blockchain strategy game built on the Aptos network that combines NFT hero ownership with resource management mechanics. Players can own unique hero NFTs, engage in strategic turn-based battles, and earn cryptocurrency rewards based on their performance. The game creates  a sustainable play-to-earn economy where skill and strategy directly translate into tangible rewards.
 
 ## contract detail
 transection ID:0x148efc46ddb3a5746e8833fd29106bd052a89aa7fa65363f7bdf27349346d239
